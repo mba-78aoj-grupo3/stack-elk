@@ -6,6 +6,8 @@ Stack ELK
 
 # Executar aplicação Python utilizando Flask.
 
+#pip install python-logstash-async
+
 #python3 -m venv myenv
 
 #source myenv/bin/activate
