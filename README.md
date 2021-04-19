@@ -6,12 +6,12 @@ Stack ELK
 
 # Executar aplicação Python utilizando Flask.
 
-python3 -m venv myenv
-source myenv/bin/activate
-pip install flask
-export FLASK_APP=main.py
-export FLASK_ENV=development
-flask run --host=0.0.0.0 --port=8080
+#python3 -m venv myenv
+#source myenv/bin/activate
+#pip install flask
+#export FLASK_APP=main.py
+#export FLASK_ENV=development
+#flask run --host=0.0.0.0 --port=8080
 
 # Subindo a Stack ELK verão 7.12.0 
 docker-compose up -d 
