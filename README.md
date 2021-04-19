@@ -19,7 +19,7 @@
 
 #flask run --host=0.0.0.0 --port=8080
 
-# Subindo a Stack ELK verão 7.12.0 
+# Subindo a Stack ELK versão 7.12.0 
 #docker-compose up -d 
 
 # Comunicação entre os Containers
