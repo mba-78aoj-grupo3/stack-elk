@@ -12,7 +12,7 @@ from logstash_async.handler import AsynchronousLogstashHandler
 from logstash_async.formatter import FlaskLogstashFormatter
 
 LOGSTASH_HOST = "172.25.0.4"
-LOGSTASH_DB_PATH = "/home/ivogust/Documents/EngSoftware/elk/docker/app/app-data/flask_logstash.db"
+LOGSTASH_DB_PATH = "/docker/app/app-data/flask_logstash.db"
 LOGSTASH_TRANSPORT = "logstash_async.transport.BeatsTransport"
 LOGSTASH_PORT = 5044
 
