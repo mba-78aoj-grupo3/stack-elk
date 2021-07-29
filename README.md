@@ -5,7 +5,7 @@
 
 # Executar aplicação Python utilizando Framework Flask.
 
-#python3 -m venv myenv
+#python -m venv myenv
 
 #source myenv/bin/activate
 
