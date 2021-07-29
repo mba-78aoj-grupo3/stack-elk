@@ -5,13 +5,13 @@
 
 # Executar aplicação Python utilizando Framework Flask.
 
-#pip install python-logstash-async
-
 #python3 -m venv myenv
 
 #source myenv/bin/activate
 
 #pip install flask
+
+#pip install python-logstash-async
 
 #export FLASK_APP=main.py
 
